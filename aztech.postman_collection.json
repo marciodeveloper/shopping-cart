@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "02f2e998-4223-4a88-ae99-d739e65619b2",
+		"name": "aztech",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27120566"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
